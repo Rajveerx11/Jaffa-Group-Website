@@ -1,5 +1,6 @@
 {
-  "name": "react-example",
+  "name": "jaffa-group-website",
+  "description": "Premium Luxury Home Builder Website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
